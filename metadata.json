@@ -1,0 +1,6 @@
+{
+  "name": "Neon Rhythm Snake",
+  "description": "A high-octane Snake game integrated with a neon-aesthetic music player. Play to the beat of dummy AI-generated synthwave tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
